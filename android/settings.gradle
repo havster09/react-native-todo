@@ -1,0 +1,3 @@
+rootProject.name = 'HavenTest'
+
+include ':app'
